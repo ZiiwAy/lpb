@@ -127,4 +127,17 @@ Pour afficher votre dans la couleur de votre pseudo :
 ```
 /me <votre message>		
 ```
-![Paulo hi](img/paulozlf.png)
+<div style="text-align:center"><img src="img/paulozlf.png"/></div>
+
+Pour afficher la liste de modérateurs de la chaîne :
+```
+/mods
+``` 					
+Affiche la liste des VIPs de la chaîne :
+```
+/vips					
+```
+Pour voter dans le sondage : 
+```
+/vote <le choix du vote>	
+``` 	
