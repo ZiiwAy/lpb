@@ -6,3 +6,4 @@
 4. [Chiffrement disque dur]()
 5. [Optimisation basique]()
 6. [Utiliser un free VPN]()
+7. [Nettoyer son pc à froid "éteint"]()
