@@ -11,3 +11,9 @@
 - 5. [Optimisation basique](https://github.com/ZiiwAy/doc/blob/master/)
 - 6. [Utiliser un free VPN](https://github.com/ZiiwAy/doc/blob/master/)
 - 7. [Nettoyer son pc à froid "éteint"](https://github.com/ZiiwAy/doc/blob/master/)
+
+---
+
+#### Vous pouvez me soutenir sur mes réseaux sociaux :
+- **[Twitter](https://twitter.com/PauloZlf)**
+- **[Instagram](https://instagram.com/paulozlf)**
