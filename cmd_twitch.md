@@ -96,15 +96,20 @@ Lève le ban :
 
 ## LES COMMANDES NIGHTBOT COMMUNES :
 
-!title <nouveau nom du live>	pour changer le titre du live (à faire de préférence avant de lancer)
-
-!winner 				tire au hasard quelqu’un du chat (il faut que la personne ait parlé au cours des 10 dernières min pour être éligible au tirage random)
+Pour changer le titre du live (à faire de préférence avant de lancer) :
+```
+!title <nouveau nom du live>
+```
+Tire au hasard quelqu’un du chat (il faut que la personne ait parlé au cours des 10 dernières min pour être éligible au tirage random) :
+```
+!winner
+```
 
 Autre option pour faire un sondage :
-
+```
 !poll new <titre> | <choix 1> | <choix 2> 		
-
-pour rajouter un choix, il suffit juste de mettre | <choix n> à la suite
+```
+*Pour rajouter un choix, il suffit juste de mettre | <choix n> à la suite*
 
 
 
