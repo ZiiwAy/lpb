@@ -1,6 +1,6 @@
 # Récap des commandes utiles pour votre modération
 
-[Retour à l'accueil](https://github.com/ZiiwAy/doc)
+**[Retour à l'accueil](https://github.com/ZiiwAy/doc)**
 
 
 ## COMMANDES DIFFUSEUR :
