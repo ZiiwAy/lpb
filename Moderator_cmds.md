@@ -3,10 +3,22 @@
 
 ## COMMANDES DIFFUSEUR :
 
-`/mod <user>` pour mettre modérateur une personne
+Pour mettre modérateur une personne :
+```
+/mod <user>
+```       
+Pour retirer un modérateur :
 
-`/unmod <user>` pour retirer un modérateur
+```
+/unmod <user>
+```     
+Pour donner le statut VIP à quelqu’un :
 
-`/vip <user>` pour donner le statut VIP à quelqu’un
+```
+/vip <user>
+```       
+Retire le statut VIP :
 
-`/unvip <user>` retire le statut VIP
+```
+/unvip <user>
+```     
