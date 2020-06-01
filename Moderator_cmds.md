@@ -92,3 +92,39 @@ Lève le ban :
 ```
 /unban <user>
 ```			
+
+
+## LES COMMANDES NIGHTBOT COMMUNES :
+
+!title <nouveau nom du live>	pour changer le titre du live (à faire de préférence avant de lancer)
+
+!winner 				tire au hasard quelqu’un du chat (il faut que la personne ait parlé au cours des 10 dernières min pour être éligible au tirage random)
+
+Autre option pour faire un sondage :
+
+!poll new <titre> | <choix 1> | <choix 2> 		
+
+pour rajouter un choix, il suffit juste de mettre | <choix n> à la suite
+
+
+
+## LES COMMANDES POUR TOUT LE MONDE :
+
+
+Empêche la personne de parler avec vous : 
+```
+/block <user>				
+```
+Disable la restriction : 
+```
+/unblock <user>		
+```	
+Pour changer votre couleur de pseudo dans le chat : 
+```
+/color <couleur en anglais>	
+```	
+Pour afficher votre dans la couleur de votre pseudo : 
+```
+/me <votre message>		
+```
+![Paulo hi](img/paulozlf.png)
