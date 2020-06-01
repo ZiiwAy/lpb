@@ -4,8 +4,6 @@
 
 ## MERCI DE LIRE JUSQUE LA FIN
 
----
-
 **1ère étape : _Téléchargement de TeamViewer_**
 - Aller télécharger la *dernière version* de TeamViewer en cliquant **[ici](https://www.teamviewer.com/fr/)**
 - Exécuter le "**TeamViewer_Setup.exe**"
@@ -17,8 +15,13 @@
 
 ---
 
-**2ème étape : _Téléchargement de WinRar_**
+**2ème étape : _Téléchargement de WinRAR_**
 
 *NOTE : cette étape n'est pas nécessaire si vous le possédez déjà.*
 
-- Rendez-vous sur le site de WinRar en cliquant **[ici](https://www.win-rar.com/predownload.html?&L=10)**
+- Rendez-vous sur le site de WinRAR en cliquant **[ici](https://www.win-rar.com/predownload.html?&L=10)**
+- Dans l'onglet *Associer WinRAR à*, tout cocher et ne pas rajouter WinRAR sur le bureau.
+
+**_Vous serez prêts pour que j'intervienne à distance..._**
+
+Merci de revenir vers moi une fois que tout est fait 😄
